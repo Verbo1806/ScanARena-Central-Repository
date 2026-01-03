@@ -1,4 +1,4 @@
-teams:
+organizations:
   - id: "LEV"
     name:
       bg: Левски София
@@ -9,3 +9,4 @@ teams:
       secondary: "#FFFFFF"
     logo_url: https://levski.bg/logo.png
     active: true
+
