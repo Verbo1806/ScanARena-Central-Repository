@@ -2,9 +2,10 @@
   name:
     bg: Левски София
     en: Levski Sofia
-  fanshop_url: https://levski.bg
+  fanshopUrl: https://levski.bg
   color:
     primary: "#0033A0"
     secondary: "#FFFFFF"
-  logo_url: https://levski.bg/logo.png
+  logoUrl: https://levski.bg/logo.png
   active: true
+
