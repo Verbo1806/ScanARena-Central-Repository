@@ -8,4 +8,7 @@
     secondary: "#FFFFFF"
   logoUrl: https://levski.bg/logo.png
   active: true
-
+  files:
+    - LEV_001.yaml
+    - LEV_002.yaml
+  
