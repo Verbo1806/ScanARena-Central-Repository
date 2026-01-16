@@ -2,7 +2,7 @@
   name:
     bg: Левски София
     en: Levski Sofia
-  fanshopUrl: https://levski.bg
+  fanshopUrl: https://fanshop.levski.bg/
   color:
     primary: "#0033A0"
     secondary: "#FFFFFF"
@@ -12,3 +12,15 @@
     - LEV_001.yaml
     - LEV_002.yaml
   
+- id: "CSKA"
+  name:
+    bg: ЦСКА София
+    en: CSKA Sofia
+  fanshopUrl: https://cska.bg/shop
+  color:
+    primary: "#DD0000"
+    secondary: "#FFFFFF"
+  logoUrl: https://cska.bg/logo.png
+  active: true
+  files:
+    - CSKA_001.yaml
