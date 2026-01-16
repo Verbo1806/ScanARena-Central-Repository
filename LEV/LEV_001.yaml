@@ -1,1 +1,59 @@
+- id: "player_001"
+  type: "footballer"
+  title:
+    bg: "Георги Иванов"
+    en: "Georgi Ivanov - Gonzo"
+  main_media: "https://levski.bg/main_01.mp4"
+  description:
+    bg: "Георги Иванов"
+    en: "Georgi Ivanov - Gonzo"
+  images:
+    - "https://levski.bg/image_01.png"
+  videos:
+    - "https://levski.bg/video_01.mp4"
+  audio:
+    - "https://levski.bg/audio_01.mp3"
+  related_items:
+    - "player_001"
+  data:
+    position: "Forward"
+    nationality: "BG"
+    birthDate: "1984-07-02"
+
+- id: "gerena"
+  type: "stadium"
+  title:
+    bg: "Стадион Георги Аспарухов"
+    en: "Georgi Asparuhov Stadium"
+  main_media: "https://levski.bg/main_01.mp4"
+  description:
+    bg: "Георги Иванов"
+    en: "Georgi Ivanov - Gonzo"
+  images:
+    - "https://levski.bg/image_01.png"
+  videos:
+    - "https://levski.bg/video_01.mp4"
+  audio:
+    - "https://levski.bg/audio_01.mp3"
+  data:
+    capacity: 25000
+    opened: "1963-03-10"
+
+- id: "moment_derby_2025"
+  type: "moment"
+  title:
+    bg: "Гол в дербито"
+    en: "Derby Goal"
+  main_media: "https://levski.bg/main_01.mp4"
+  description:
+    bg: "Георги Иванов"
+    en: "Georgi Ivanov - Gonzo"
+  images:
+    - "https://levski.bg/image_01.png"
+  videos:
+    - "https://levski.bg/video_01.mp4"
+  audio:
+    - "https://levski.bg/audio_01.mp3"
+  data:
+    date: "2025-04-12"
 
