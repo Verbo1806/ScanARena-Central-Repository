@@ -3,7 +3,7 @@
   title:
     bg: "Георги Иванов"
     en: "Georgi Ivanov - Gonzo"
-  main_media: "https://levski.bg/main_01.mp4"
+  mainMedia: "https://levski.bg/main_01.mp4"
   description:
     bg: "Георги Иванов"
     en: "Georgi Ivanov - Gonzo"
@@ -13,7 +13,7 @@
     - "https://levski.bg/video_01.mp4"
   audio:
     - "https://levski.bg/audio_01.mp3"
-  related_items:
+  relatedItems:
     - "player_001"
   data:
     position: "Forward"
@@ -25,7 +25,7 @@
   title:
     bg: "Стадион Георги Аспарухов"
     en: "Georgi Asparuhov Stadium"
-  main_media: "https://levski.bg/main_01.mp4"
+  mainMedia: "https://levski.bg/main_01.mp4"
   description:
     bg: "Георги Иванов"
     en: "Georgi Ivanov - Gonzo"
@@ -44,7 +44,7 @@
   title:
     bg: "Гол в дербито"
     en: "Derby Goal"
-  main_media: "https://levski.bg/main_01.mp4"
+  mainMedia: "https://levski.bg/main_01.mp4"
   description:
     bg: "Георги Иванов"
     en: "Georgi Ivanov - Gonzo"
