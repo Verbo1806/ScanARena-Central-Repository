@@ -12,8 +12,8 @@
     - LEV_001.yaml
     - LEV_002.yaml
   imageUrls:
-    - https://github.com/Verbo1806/ScanARena-Central-Repository/blob/main/images/lev-bg.png
-    - https://github.com/Verbo1806/ScanARena-Central-Repository/blob/main/images/lev-bg-2.png
+    - https://raw.githubusercontent.com/Verbo1806/ScanARena-Central-Repository/refs/heads/main/images/lev-bg.png
+    - https://raw.githubusercontent.com/Verbo1806/ScanARena-Central-Repository/refs/heads/main/images/lev-bg-2.png
   
 - id: "CSKA"
   name:
@@ -28,6 +28,7 @@
   files:
     - CSKA_001.yaml
   imageUrls:
-    - https://github.com/Verbo1806/ScanARena-Central-Repository/blob/main/images/lev-bg.png
-    - https://github.com/Verbo1806/ScanARena-Central-Repository/blob/main/images/lev-bg-2.png
+    - https://raw.githubusercontent.com/Verbo1806/ScanARena-Central-Repository/refs/heads/main/images/lev-bg.png
+    - https://raw.githubusercontent.com/Verbo1806/ScanARena-Central-Repository/refs/heads/main/images/lev-bg-2.png
+
 
